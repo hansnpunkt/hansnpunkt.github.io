@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jan Hnsen"
+title                    : "Jan Hansen"
 title_separator          : "-"
 name                     : &name "Jan Hansen"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jan Hansen"
-  avatar           : "profile_copy_edit.jpg"
+  avatar           : "images/profile_copy_edit.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Kingston, ON"
   employer         :
