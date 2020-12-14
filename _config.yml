@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jan Hansen"
-  avatar           : "images/profile_copy_edit.jpg"
-  bio              : "Data Science, <br> Geoscience, <br> Geophysics"
+  avatar           : "profile_copy_edit.jpg"
+  bio              : "Data Science <br> Geoscience <br> Geophysics <br> Geochemistry"
   location         : 
   employer         :
   pubmed           : 
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8788-2266"
+  orcid            : #"https://orcid.org/0000-0002-8788-2266"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Ookenfooken"
+  twitter          : #"Ookenfooken"
   vine             :
   weibo            :
   xing             :
