@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eye Investigate"
+title                    : "Jan Hansen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Postdoctoral Fellow"
-url                      : https://ookenfooken.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hansnpunkt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ookenfooken/ookenfooken.github.io/"
 teaser                   : #"photoJoli.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.jpg"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jan Hansen"
   avatar           : "images/profile_copy_edit.jpg"
-  bio              : "Eye movements, <br> Visual prediction, <br> Eye-hand coordination, <br> Sensorimotor decisions, <br> Motor control"
+  bio              : "Data Science, <br> Geoscience, <br> Geophysics"
   location         : 
   employer         :
   pubmed           : 
