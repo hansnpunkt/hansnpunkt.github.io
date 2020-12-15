@@ -50,7 +50,7 @@ Hardware skills
 * Geochemistry
   * LA-ICP-MS
   * Electron Microprobe
-  * Gas chhromatograph
+  * Gas chromatograph
   * Gamma ray spectrometer
 * Geology 
   * Geological compass
