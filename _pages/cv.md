@@ -30,9 +30,9 @@ Work experience
 Software skills
 ======
 * Python
- * pandas, PyTorch
+  * pandas, PyTorch
 * R
- * shiny
+  * shiny
 * Matlab
 * lua
 
@@ -40,22 +40,22 @@ Hardware skills
 ======
 
 * Geophysics
- * TEM
- * EM
- * ERT
- * Seismic
- * GPR
- * Overwater
- * Televiewer
+  * TEM
+  * EM
+  * ERT
+  * Seismic
+  * GPR
+  * Overwater
+  * Televiewer
 * Geochemistry
- * LA-ICP-MS
- * Electron Microprobe
- * Gas chhromatograph
- * Gamma ray spectrometer
+  * LA-ICP-MS
+  * Electron Microprobe
+  * Gas chhromatograph
+  * Gamma ray spectrometer
 * Geology 
- * Geological compass
- * GPS
- * Inclinometer
+  * Geological compass
+  * GPS
+  * Inclinometer
  
 
 Selected Fieldwork
@@ -63,19 +63,3 @@ Selected Fieldwork
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-\Talks
-\======
-\  <ul>{% for post in site.talks %}
-\    {% include archive-single-talk-cv.html %}
-\  {% endfor %}</ul>
-  
-\Teaching
-\======
- \ <ul>{% for post in site.teaching %}
- \   {% include archive-single-cv.html %}
- \ {% endfor %}</ul>
-  
-\Service and leadership
-\======
-\* Currently signed in to 43 different slack teams
