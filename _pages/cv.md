@@ -61,10 +61,17 @@ Hardware skills
 Selected Fieldwork
 ======
 Sediment and pore water sampling - 3 Marine Expeditions to the Pacifc
+
 Transient Electromagnetics Geothermal Exploration - Harrison Mills, BC
+
 Electrical Resistivity Tomography Bedrock and permafrost mapping - Faro, YT
+
 Bathymetry Tailings thickness - Flin Flon, MB
+
 Televiewer, Gamma ray logging Fracture detection - Revelstoke, BC
+
 EM31, ERT and magnetics Fault mapping, groundw. explor. - Whitefsh, AB
+
 Transient Electromagnetics Sulphate plume detection - Williams Lake, BC
+
 Ground Penetrating Radar Sinkhole detection - New Westminster, BC
