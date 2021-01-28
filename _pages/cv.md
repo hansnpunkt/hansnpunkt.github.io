@@ -17,14 +17,13 @@ Education
 
 Work experience
 ======
-* Nov 2013 - Apr 2017 : Geophysicist
-  * Frontier Geosciences Inc. 
+* Nov 2013 - Apr 2017 : Geophysicist at Frontier Geosciences Inc.
   * Planned, executed and supervised feld work
   * Data processing in 2D and 3D
   * Software development to streamline processing with Python and R
   * Engineered a 360◦ 96 MP camera via parallel computing in lua and shell
   * Designed and maintained the company website using HTML and MySQL
-  * Supervisor: P. Geo. Cliff Candy, P. Eng. Russ Hillmann
+  * Supervisors: P. Geo. Cliff Candy, P. Eng. Russ Hillmann
 
  
 Software skills
